@@ -1,6 +1,3 @@
-CMGrp16
-Members: Mark, Sven, Phillip, Mathew
-
 ##
 Instructions (README)
 ##
